@@ -8,16 +8,36 @@ body {
     /* Added margin-bottom to prevent overlap with fixed navigation on recipe page */
     padding-bottom: 100px; /* Adjust if your nav bar is taller/shorter */
 }
+* Add CSS to style.css for the link:
+   /* Styling for the "Back to Recipe List" link */
+#back-to-list-link {
+    display: block; /* Or inline-block */
+    margin: 10px auto 15px; /* Adjust margin as needed, 'auto' centers if block */
+    text-align: center; /* Center text if block */
+    text-decoration: none;
+    color: #fff; /* White color to match header text */
+    background-color: #555; /* A slightly different background or just text */
+    padding: 8px 15px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    max-width: 200px; /* Limit width if centered block */
+}
 
+#back-to-list-link:hover {
+    background-color: #777;
+}
+/* Adjust header if needed */
 header {
     background-color: #333;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    /* position: relative; /* Useful if you want to absolutely position things within it */
 }
 
+
 header h1 {
-    margin: 0;
+     margin-top: 0; /* Adjust if the link pushes it down too much */
 }
 
 main {
