@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title:  "Chicken Lombardy", file: "Chicken-Lombardy.json" },
         { title:  "Grilled Swordfish Pumpkin Ravioli", file: "Grilled-Swordfish-Pumpkin-Ravioli.json" },
         { title:  "Instant Pot Butter Chicken", file: "Instant-Pot-Butter-Chicken.json" },
-        { title:  "Instant Pot Chicken Shawarma", file: "Instant-Pot-Chicken-Shawarma.json" },
+        { title:  "Instant Pot Chicken Shawarma", file: "Instant-Pot-Chicken-Shawarma.json" }
         // Add more recipe objects here as you create more JSON files
         // { title: "Your Next Recipe Title", file: "your-next-recipe.json" }
     ];
