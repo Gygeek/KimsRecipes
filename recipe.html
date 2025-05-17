@@ -7,23 +7,29 @@
 </head>
 <body>
     <header>
+        <a href="index.html" id="back-to-list-link">&laquo; Back to Recipe List</a>
         <h1 id="recipe-title">Loading Recipe...</h1>
     </header>
-    <main>
-        <section id="recipe-ingredients">
-            <h2>Ingredients</h2>
-            <p>Loading ingredients...</p>
-        </section>
 
-        <section id="recipe-instructions">
-            <h2>Instructions</h2>
-            <div id="instruction-step-container">
-                <p id="step-counter"></p>
-                <p id="instruction-text">Loading instruction...</p>
-            </div>
+    <div id="recipe-layout-container">
+        <aside id="ingredients-column">
+            <section id="recipe-ingredients">
+                <h2>Ingredients</h2>
+                <p>Loading ingredients...</p>
             </section>
-    </main>
-    <div id="navigation-controls">
+        </aside>
+
+        <article id="instructions-column">
+            <section id="recipe-instructions">
+                <h2>Instructions</h2>
+                <div id="instruction-step-container">
+                    <p id="step-counter"></p>
+                    <p id="instruction-text">Loading instruction...</p>
+                </div>
+                </section>
+        </article>
+    </div>
+    <div id="navigation-controls"> {/* This remains fixed to the viewport bottom */}
         <button id="prev-step" disabled>Previous</button>
         <button id="next-step" disabled>Next</button>
     </div>
