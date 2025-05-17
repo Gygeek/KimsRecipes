@@ -166,3 +166,65 @@ main {
     cursor: not-allowed;
     opacity: 0.7;
 }
+/* Container for the two-column layout */
+#recipe-layout-container {
+    display: flex; /* Enable Flexbox */
+    flex-wrap: wrap; /* Allow wrapping for responsiveness */
+    gap: 20px; /* Space between columns */
+    max-width: 1200px; /* Max width for the recipe content area */
+    margin: 20px auto; /* Center it on the page */
+    padding: 0 20px; /* Padding on the sides */
+}
+
+/* Ingredients column (left) */
+#ingredients-column {
+    flex: 1; /* Takes up 1 part of the available space */
+    min-width: 280px; /* Minimum width before wrapping or squishing too much */
+    /* For "sticky" ingredients (stays visible while right column scrolls): */
+    position: sticky;
+    top: 20px; /* Adjust this value based on any fixed header height or desired offset */
+    align-self: flex-start; /* Important for sticky positioning to work correctly with flex parents */
+    /* Ensure the height of the sticky element is not more than viewport if content is long */
+    max-height: calc(100vh - 40px); /* 20px top + 20px bottom padding/margin */
+    overflow-y: auto; /* Allow scrolling within ingredients if it's too tall */
+}
+
+/* Instructions column (right) */
+#instructions-column {
+    flex: 2; /* Takes up 2 parts of the available space, so it's wider */
+    min-width: 300px; /* Minimum width */
+    /* If this column's content is very long, it will naturally scroll the page,
+       or if #recipe-layout-container doesn't scroll, this one would need overflow-y: auto
+       and a defined height/max-height. Given the sticky ingredients, page scroll is fine. */
+}
+
+/* Ensure existing sections fit well within the new columns */
+#recipe-ingredients, #recipe-instructions {
+    background-color: #fff; /* If not already set by main */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+#recipe-ingredients h2, #recipe-instructions h2 {
+    margin-top: 0; /* Remove default top margin if padding is on the section */
+}
+
+
+/* Responsive Design: Stack columns on smaller screens */
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
+    #recipe-layout-container {
+        flex-direction: column; /* Stack them vertically */
+    }
+
+    #ingredients-column {
+        position: static; /* Reset sticky positioning for stacked layout */
+        max-height: none; /* Reset max-height */
+        width: 100%; /* Take full width */
+        margin-bottom: 20px; /* Space before instructions */
+        overflow-y: visible; /* Reset overflow */
+    }
+
+    #instructions-column {
+        width: 100%; /* Take full width */
+    }
+}
