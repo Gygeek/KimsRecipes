@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const recipes = [
         { title: "Instant Pot Black Beans", file: "instant-pot-black-beans.json" },
         { title: "Instant Pot Butternut Squash Soup", file: "instant-pot-butternut-squash-soup.json" },
-        { title: "Black Bean Burger", file: "black-bean-burger.json" }
+        { title: "Black Bean Burger", file: "black-bean-burger.json" },
+        { title:  "Instant Pot Spaghetti & Meatballs", file: "InstantPotSpaghettiMeatballs.json" }
         // Add more recipe objects here as you create more JSON files
         // { title: "Your Next Recipe Title", file: "your-next-recipe.json" }
     ];
