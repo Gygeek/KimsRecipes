@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: "Instant Pot Butternut Squash Soup", file: "instant-pot-butternut-squash-soup.json" },
         { title: "Black Bean Burger", file: "black-bean-burger.json" },
         { title:  "Instant Pot Spaghetti & Meatballs", file: "InstantPotSpaghettiMeatballs.json" },
-        { title:  "Black Bean Soup", file: "Black-Bean-Soup.json" }
+        { title:  "Black Bean Soup", file: "Black-Bean-Soup.json" },
+        { title:  "Bok Choy Chicken", file: "Bok-Choy-Chicken.json" }
         // Add more recipe objects here as you create more JSON files
         // { title: "Your Next Recipe Title", file: "your-next-recipe.json" }
     ];
