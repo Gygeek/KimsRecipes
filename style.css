@@ -7,6 +7,14 @@ body {
     color: #333;
     /* Added margin-bottom to prevent overlap with fixed navigation on recipe page */
     padding-bottom: 100px; /* Adjust if your nav bar is taller/shorter */
+
+     /* === ADD YOUR NEW BACKGROUND IMAGE RULES BELOW === */
+    background-image: url('RecipesBackground.png'); /* Replace with your image file name/path */
+    background-size: cover;                       /* Scales the image to cover the entire background */
+    background-position: center center;           /* Centers the image */
+    background-repeat: no-repeat;                 /* Prevents the image from tiling if it's smaller than the screen */
+    background-attachment: fixed;                 /* Makes the background image stay in place when scrolling (parallax effect). You can also use 'scroll' if you prefer the image to scroll with the content. */
+    /* ============================================== */
 }
 * Add CSS to style.css for the link:
    /* Styling for the "Back to Recipe List" link */
