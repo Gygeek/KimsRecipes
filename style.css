@@ -16,15 +16,15 @@ body {
     background-attachment: fixed;                 /* Makes the background image stay in place when scrolling (parallax effect). You can also use 'scroll' if you prefer the image to scroll with the content. */
 
     /* The magic for knocking out the text */
-    -webkit-background-clip: text;  /* For Safari/Chrome and other WebKit browsers */
-    background-clip: text;          /* Standard property */
+    /*-webkit-background-clip: text;  /* For Safari/Chrome and other WebKit browsers */
+    /*background-clip: text;          /* Standard property */
 
-    color: transparent;             /* Makes the actual text color transparent, so the background shows through */
+    /*color: transparent;             /* Makes the actual text color transparent, so the background shows through */
 
     /* Keep or adjust existing h1 styles like font size, weight, margin */
-    font-size: 1.5em; /* Example: adjust to your preference */
-    font-weight: bold; /* Example */
-    margin: 10px 0; /* Adjust as needed */
+    /*font-size: 1.5em; /* Example: adjust to your preference */
+    /*font-weight: bold; /* Example */
+    /*margin: 10px 0; /* Adjust as needed */
     /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Optional: A subtle shadow can help text pop a bit, but might reduce the knockout purity. Test it. */
     
     /* ============================================== */
