@@ -19,7 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { title:  "Salmon Stuffed with Leeks", file: "Salmon-Stuffed-with-Leeks.json" },
         { title:  "Scallops with Brussel Sprouts", file: "Scallops-with-Brussels-Sprouts-with-Bacon.json" },
         { title:  "Skillet Roasted Lemon Chicken", file: "Skillet-Roasted-Lemon-Chicken.json" },
-        { title:  "White Bean Skillet", file:  "White-Bean-Spinach-Skillet.json"  }
+        { title:  "White Bean Skillet", file:  "White-Bean-Spinach-Skillet.json"  },
+        { title:  "Sri Lankan Dal", file: "{ title:  Sri-Lankan-Dal-With-Coconut-and-Lime-Kale.json" },
+        { title:  "Dal Makhani", file: "Dal-Makhani.json" }
         // Add more recipe objects here as you create more JSON files
         // { title: "Your Next Recipe Title", file: "your-next-recipe.json" }
     ];
