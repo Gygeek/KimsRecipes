@@ -22,7 +22,7 @@ body {
     color: transparent;             /* Makes the actual text color transparent, so the background shows through */
 
     /* Keep or adjust existing h1 styles like font size, weight, margin */
-    font-size: 2.5em; /* Example: adjust to your preference */
+    font-size: 1.5em; /* Example: adjust to your preference */
     font-weight: bold; /* Example */
     margin: 10px 0; /* Adjust as needed */
     /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Optional: A subtle shadow can help text pop a bit, but might reduce the knockout purity. Test it. */
