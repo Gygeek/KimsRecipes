@@ -12,12 +12,10 @@ body {
 
      /* === MODIFIED LINE FOR TRANSPARENCY EFFECT === */
     background-image:
-        /*linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), /* This is a semi-transparent white overlay */
-        url('RecipesBackground.png');*/
+        linear-gradient(rgba(152, 251, 152, 0.7), rgba(152, 251, 152, 0.7)),*/ /* This is a semi-transparent green overlay */
+        /*url('RecipesBackground.png');
 
-    linear-gradient(rgba(152, 251, 152, 0.7), rgba(152, 251, 152, 0.7)), /* This is a semi-transparent white overlay */
-        url('RecipesBackground.png');
-
+        
     
     /* ============================================ */
     /*background-image: url('RecipesBackground.png');*/ /* Replace with your image file name/path */
