@@ -231,7 +231,7 @@ main {
 
 /* Ensure existing sections fit well within the new columns */
 #recipe-ingredients, #recipe-instructions {
-    background-color: #fff; /* If not already set by main */
+    background-color: transparent; /* If not already set by main */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 5px;
