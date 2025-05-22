@@ -107,7 +107,7 @@ main {
 
 #recipe-list-container a {
     text-decoration: none;
-    color: #337ab7;
+    color: red;
     font-size: 1.2em;
 }
 
@@ -160,12 +160,13 @@ main {
 #instruction-step-container #step-counter {
     font-weight: bold;
     margin-bottom: 10px;
-    color: #337ab7;
+    color: red;
 }
 
 #instruction-text {
     font-size: 1.1em;
     min-height: 50px; /* Ensures space even for short instructions */
+    color: red; /* ADDED to make instruction text red */
 }
 
 #navigation-controls {
@@ -231,6 +232,7 @@ main {
     /* Ensure the height of the sticky element is not more than viewport if content is long */
     max-height: calc(100vh - 40px); /* 20px top + 20px bottom padding/margin */
     overflow-y: auto; /* Allow scrolling within ingredients if it's too tall */
+    color: red; /* ADDED to make instruction text red */
 }
 
 /* Instructions column (right) */
@@ -240,6 +242,7 @@ main {
     /* If this column's content is very long, it will naturally scroll the page,
        or if #recipe-layout-container doesn't scroll, this one would need overflow-y: auto
        and a defined height/max-height. Given the sticky ingredients, page scroll is fine. */
+    color: red; /* ADDED to make instruction text red */
 }
 
 /* Ensure existing sections fit well within the new columns */
