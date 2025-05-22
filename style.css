@@ -147,7 +147,10 @@ main {
 
 
 #instruction-step-container {
-    background-color: #e9f5ff;
+     /* background-color: #e9f5ff; */ /* Original light blue background */
+    background-color: transparent; /* MODIFIED for transparency */
+
+    
     border: 1px solid #b3d7ff;
     padding: 15px;
     margin-bottom: 20px;
