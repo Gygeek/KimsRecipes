@@ -68,6 +68,7 @@ header {
 
 header h1 {
      margin-top: 0; /* Adjust if the link pushes it down too much */
+    color: #000080;
 }
 
 main {
