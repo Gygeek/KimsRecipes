@@ -83,12 +83,22 @@ main {
 #recipe-list-container {
     list-style: none;
     padding: 0;
+
+    /* New styles for two columns */
+    column-count: 2;
+    column-gap: 30px; /* Increased gap slightly for better spacing */
+    /* list-style-position: inside; /* Use if you want bullets inside the column flow */
 }
 
 #recipe-list-container li {
     margin-bottom: 10px;
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
+
+    /* New style to prevent items breaking across columns */
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid; /* Older WebKit browsers */
+            page-break-inside: avoid; /* Older browsers */
 }
 
 #recipe-list-container li:last-child {
