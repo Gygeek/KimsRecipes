@@ -41,20 +41,24 @@ body {
 * Add CSS to style.css for the link:
    /* Styling for the "Back to Recipe List" link */
 #back-to-list-link {
-    display: block; /* Or inline-block */
-    margin: 10px auto 15px; /* Adjust margin as needed, 'auto' centers if block */
-    text-align: center; /* Center text if block */
+    display: block;
+    margin: 10px auto 15px;
+    text-align: center;
     text-decoration: none;
-    color: #fff; /* White color to match header text */
-    background-color: #555; /* A slightly different background or just text */
-    padding: 8px 15px;
+    color: white;
+    background-color: #f0ad4e; /* Orange like the 'Previous' button */
+    padding: 10px 20px;
+    border: none; /* No border, like nav buttons */
     border-radius: 4px;
     font-size: 0.9em;
-    max-width: 200px; /* Limit width if centered block */
+    font-weight: bold;
+    max-width: 220px;
+    transition: background-color 0.3s ease;
 }
 
 #back-to-list-link:hover {
-    background-color: #777;
+    background-color: #ec971f; /* Darker orange on hover */
+}
 }
 /* Adjust header if needed */
 header {
