@@ -19,5 +19,6 @@
     { "title":  "White Bean Skillet", "file":  "White-Bean-Spinach-Skillet.json"  },
     { "title":  "Sri Lankan Dal", "file": "Sri-Lankan-Dal-With-Coconut-and-Lime-Kale.json" },
     { "title":  "Dal Makhani", "file": "Dal-Makhani.json" },
-    { "title":  "Salmon Cakes", "file": "Salmon_Cakes.json" }
+    { "title":  "Salmon Cakes", "file": "Salmon_Cakes.json" },
+    { "title":  "Croissant Breakfast Bake", "file": "Croissant_Breakfast_Bake.json" }
 ]
