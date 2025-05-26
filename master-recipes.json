@@ -21,5 +21,6 @@
     { "title":  "Dal Makhani", "file": "Dal-Makhani.json" },
     { "title":  "Salmon Cakes", "file": "Salmon_Cakes.json" },
     { "title":  "Croissant Breakfast Bake", "file": "Croissant_Breakfast_Bake.json" },
-    { "title":  "Instant Pot Pan Roast", "file": "Instant-Pot-Seafood-Pan-Roast.json" }
+    { "title":  "Instant Pot Pan Roast", "file": "Instant-Pot-Seafood-Pan-Roast.json" },
+    { "title":  "Pan Roast", "file": "seafood_pan_roast.json" }
 ]
