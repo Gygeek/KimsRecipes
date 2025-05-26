@@ -1,0 +1,71 @@
+{
+  "title": "Seafood Pan Roast",
+  
+  "description": "Inspired by the delicious pan roast available at Palace Station's Oyster Bar. This is a kind of copycat recipe. It's close to the original, but different in a very good way!",
+  "ingredients": {
+    "tomato_cream_sauce": [
+      "28 oz can of San Marzano tomatoes",
+      "1 Tbsp Worcestershire sauce",
+      "2 tsp Louisiana style hot sauce (Frank's Red Hot, Louisiana, etc)",
+      "1 Tbsp honey",
+      "1 tsp madras curry powder (optional)",
+      "½ cup half & half or heavy cream",
+      "1 Tbsp-2 Tbsp whole wheat flour or corn starch"
+    ],
+    "rice": [
+      "2 cups jasmine rice",
+      "2 cups water",
+      "1 tsp saffron (optional)"
+    ],
+    "seafood_stew": [
+      "1 Tbsp canola or vegetable oil",
+      "2 cups shallots, chopped or 1 sweet yellow onion, diced",
+      "1½ cups celery, chopped",
+      "1 green bell pepper, diced",
+      "1 Tbsp garlic, minced",
+      "2 Tbsp butter",
+      "1 package of seafood blend or any seafood of your choice (crab, shrimp, calamari, mussels, clams, etc)",
+      "1 Tbsp Old Bay seasoning",
+      "2 tsp cajun/creole seasoning (Tony's or Slap Ya Mama; my original spicy recipe called for 1 Tbsp)",
+      "¾ cup white wine (Riesling) or sherry",
+      "½ cup Brandy",
+      "1 cup fish or vegetable broth (use clam juice or fish sauce & some MSG for extra umami)",
+      "2 bay leaves",
+      "2 Tbsp tomato paste",
+      "2 cups okra, sliced into ½ inch chunks (optional)",
+      "½ cup parsley, chopped",
+      "Kosher or sea salt to taste",
+      "Pepper, freshly ground to taste",
+      "Crushed red pepper, cayenne pepper, paprika, or dried ghost chili flakes for extra heat if desired"
+    ]
+  },
+  "steps": [
+    "Rinse rice with water about 3-4 times, prepare in rice cooker with a 1:1 ratio of rice to water. Add saffron if desired.",
+    "In a blender or food processor, empty the San Marzano tomatoes, Worcestershire sauce, hot sauce, half & half, honey, curry powder, & starch. Blend until smooth. The color should look like a light pink sauce; set aside.",
+    "In a large saucepan on medium low heat, add oil. Flick a drop of water into the pot to see if it'll sizzle. Sweat shallots for about 2-3 minutes until translucent. Add celery & bell pepper, occasionally stirring until softened. Stir in garlic & cook for about 8-10 minutes.",
+    "Turn the heat up to medium-high, melting the butter & cooking seafood blend along with all the spices. Stir together to evenly coat the spices all over the seafood. Cook for about 2 minutes. Depending on how delicate your seafood is, you may want to set the seafood aside (leaving behind only the juices) before adding in the components of the stew so that you don't overcook your seafood.",
+    "Add the brandy, white wine, fish broth, & bay leaves to the seafood. Bring to a boil & stir in the tomato paste.",
+    "Finish up the Pan Roast by slowly stirring in the tomato cream mixture. Bring the stew to a boil & reduce to a simmer for about 20-25 minutes until broth is properly thickened to your desired consistency. Stir occasionally & cover with lid slightly askew to recreate a 'steam kettle' environment. When thickened, add okra. The longer you allow the stew to reduce, the more flavorful it'll become. Umami really comes through the next day after it's rested. If it's still not thickening up, mix 1 Tbsp flour/starch with ½ cup fish broth in a separate bowl until homogenous. Add this bowl into the pot & it should do the trick.",
+    "Garnish the Pan Roast with a nice heap of rice & fresh parsley flakes."
+  ],
+  "notes": [
+    "Make sure to look at the label on the San Marzano tomato can, checking it to see that it was from San Marzano, Italy (DOP certified). True San Marzano tomatoes are from San Marzano. Don't get the 'San Marzano style' tomatoes; those aren't TRUE San Marzano tomatoes. Trust me, there is a huge difference.",
+    "The curry powder is completely optional & was only included because my cousin remarked that the Pan Roast tasted very similar to curry. Try adding more butter (1 whole stick) & more heavy cream to the recipe if you feel it lacks richness. Making a roux to start this recipe is also a great method to get a thick consistency.",
+    "If this recipe is too spicy for you (I've edited it down a more tolerable level), use common sense/your best judgment: don't use all the spicy spices!! You can also add another can of tomatoes, dial back the spices, add more fish broth, add more honey, etc. The last thing I want is for people not to enjoy my recipe because they can't handle the heat. Honey + fish broth + tomatoes = helps to dilute the spiciness."
+  ],
+  "nutrition": {
+    "serving_size": 8,
+    "per_serving": {
+      "calories": 460,
+      "sugar": "9g",
+      "sodium": "243mg",
+      "fat": "14g",
+      "saturated_fat": "6g",
+      "unsaturated_fat": "7g",
+      "trans_fat": "0g",
+      "carbohydrates": "55g",
+      "protein": "16g",
+      "cholesterol": "58mg"
+    }
+  }
+}
