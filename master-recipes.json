@@ -24,5 +24,6 @@
     { "title":  "Instant Pot Pan Roast", "file": "Instant-Pot-Seafood-Pan-Roast.json" },
     { "title":  "Pan Roast", "file": "seafood_pan_roast.json" },
     { "title":  "Thai Curry - Stovetop - Gemini version", "file": "Ultimate-Induction-Stovetop-Thai-Chicken-Curry.json" },
-    { "title":  "Thai Curry - Pressure Cooker - Gemini version", "file": "Ultimate-Instant-Pot-Thai-Chicken-Curry.json" }
+    { "title":  "Thai Curry - Pressure Cooker - Gemini version", "file": "Ultimate-Instant-Pot-Thai-Chicken-Curry.json" },
+    { "title":  "Lentil Soup with Harissa Paste", "file": "Lentil-Soup-With-Harissa-Preserved-Lemons.json" }
 ]
