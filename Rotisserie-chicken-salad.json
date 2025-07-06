@@ -1,6 +1,6 @@
 {
-"Title": "Rotisserie chicken salad",
-"Ingredients": {
+"title": "Rotisserie chicken salad",
+"ingredients": {
 "Chicken & Vegetables": [
 "Rotisserie chicken (1/2 bird)",
 "4 stalks celery, chopped finely",
@@ -16,7 +16,7 @@
 "White vinegar - 1 tbsp"
 ]
 },
-"Steps": [
+"steps": [
 "Remove chicken from the bones - remove the skin as well (not great in this salad)",
 "You will use about 1/2 of the chicken from a Costco rotisserie chicken. You want to chop it up finely - I used a food chopper, and it worked great.",
 "Chop celery and sweet onion very finely - again, I used a food chopper.",
