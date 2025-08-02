@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const recipeListContainer = document.getElementById('recipe-list-container');
-
     if (recipeListContainer) {
         fetch('master-recipes.json') // Fetch the new master list
             .then(response => {
@@ -10,8 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 return response.json();
             })
             .then(recipes => {
+                recipes.sort((a, b) => a.title.localeCompare(b.title, undefined, { sensitivity: 'base' }));
                 if (recipes.length === 0) {
-                    recipeListContainer.innerHTML = '<li>No recipes found in master-recipes.json.</li>';
+                    recipeListContainer.innerHTML = 'No recipes found in master-recipes.json.';
                 } else {
                     recipes.forEach(recipe => {
                         const listItem = document.createElement('li');
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .catch(error => {
                 console.error("Could not load or process recipes:", error);
-                recipeListContainer.innerHTML = `<li>Error loading recipes: ${error.message}. Please check if master-recipes.json exists and is valid.</li>`;
+                recipeListContainer.innerHTML = `Error loading recipes: ${error.message}. Please check if master-recipes.json exists and is valid.`;
             });
     } else {
         console.error("Recipe list container not found in index.html");
