@@ -30,5 +30,6 @@
     { "title":  "Pan Seared Salmon W/Cherry Tomatoes", "file": "Pan-Seared-Salmon-Ch-Tomato.json" },
     { "title":  "Rotisserie chicken salad", "file": "Rotisserie-chicken-salad.json" },
     { "title":  "Cod with Tomatoes Olives Capers", "file": "Cod-with-tomatoes.json" },
-    { "title":  "Instant Pot Lamb Stew (Israeli Chili)", "file": "Instant-Pot-Lamb-Stew-Israeli-Chili.json" }
+    { "title":  "Instant Pot Lamb Stew (Israeli Chili)", "file": "Instant-Pot-Lamb-Stew-Israeli-Chili.json" },
+    { "title": "Orecchiette with Sausage and Broccoli", "file": "Orecchiette-with-Sausage-and-Broccoli.json" }
 ]
