@@ -1,6 +1,6 @@
 {
-  "Title": "Greek-inspired Baked Feta & Cauliflower",
-  "Ingredients": {
+  "title": "Greek-inspired Baked Feta & Cauliflower",
+  "ingredients": {
     "Vegetables": [
       "2 cups ripe cherry tomatoes",
       "1 large head cauliflower, broken into bite-sized florets"
@@ -22,7 +22,7 @@
       "sea salt and ground pepper, to taste"
     ]
   },
-  "Steps": [
+  "steps": [
     "Preheat your oven to 400 degrees F.",
     "In a 9×13\" baking dish add the cherry tomatoes, olives, pressed garlic, 1 tablespoon of the olive oil, sea salt and pepper to taste. Toss everything well to coat.",
     "Place the feta block in the center of your baking dish. Drizzle feta with the remaining olive oil.",
@@ -34,4 +34,5 @@
     "Garnish with fresh parsley and enjoy!"
   ]
 }
+
 
