@@ -36,9 +36,11 @@
     { "title": "Split Pea Soup", "file": "Split-Pea-Soup.json" },
     { "title": "Lemony Bean Stew", "file": "Lemony-Bean-Stew.json" },
     { "title":  "Strawberry Baked Brie", "file": "Strawberry-Baked-Brie.json" },
-    { "title": "Cod Piccata", "file": "cod-piccata.json" }
+    { "title": "Cod Piccata", "file": "cod-piccata.json" },
+    { "title":  "Braised Eggplant Parm", "file": "braised-eggplant.json" }
     
 ]
+
 
 
 
