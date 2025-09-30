@@ -1,30 +1,40 @@
 {
   "title": "Harira Soup",
-  "ingredients": [
-    "2 Tbsp olive oil",
-    "1 onion, diced",
-    "2 stalks celery, finely chopped",
-    "4 cloves garlic, chopped",
-    "1½ tsp ground ginger",
-    "1½ tsp black pepper",
-    "1 tsp turmeric",
-    "2 tsp cumin",
-    "1 tsp smoked paprika",
-    "½ tsp cayenne pepper",
-    "6 cups vegetable broth, chicken broth or water",
-    "28 oz canned crushed or whole peeled tomatoes",
-    "1 cinnamon stick or ¼ tsp ground cinnamon",
-    "A pinch of saffron (optional)",
-    "1 to 2 tsp sea salt",
-    "¾ cup red lentils, dry",
-    "½ cup brown or green lentils, dry",
-    "½ cup fresh cilantro, chopped and divided",
-    "½ cup fresh parsley, chopped and divided",
-    "15 oz canned chickpeas",
-    "4 oz capellini or spaghetti pasta, broken into approximately 2-inch pieces",
-    "2 tsp honey",
-    "Lemon wedges, yogurt and dates, for serving (optional)"
-  ],
+  "ingredients": {
+    "Aromatics and Spices": [
+      "2 Tbsp olive oil",
+      "1 onion, diced",
+      "2 stalks celery, finely chopped",
+      "4 cloves garlic, chopped",
+      "1½ tsp ground ginger",
+      "1½ tsp black pepper",
+      "1 tsp turmeric",
+      "2 tsp cumin",
+      "1 tsp smoked paprika",
+      "½ tsp cayenne pepper",
+      "1 cinnamon stick or ¼ tsp ground cinnamon",
+      "A pinch of saffron (optional)",
+      "1 to 2 tsp sea salt"
+    ],
+    "Main Ingredients": [
+      "6 cups vegetable broth, chicken broth or water",
+      "28 oz canned crushed or whole peeled tomatoes",
+      "¾ cup red lentils, dry",
+      "½ cup brown or green lentils, dry",
+      "15 oz canned chickpeas",
+      "4 oz capellini or spaghetti pasta, broken into approximately 2-inch pieces"
+    ],
+    "Herbs and Finishers": [
+      "½ cup fresh cilantro, chopped and divided",
+      "½ cup fresh parsley, chopped and divided",
+      "2 tsp honey"
+    ],
+    "For Serving (Optional)": [
+      "Lemon wedges",
+      "Yogurt",
+      "Dates"
+    ]
+  },
   "steps": [
     "In a large pot over medium heat, sauté onion in olive oil until soft. Add celery, garlic, ginger, black pepper, turmeric, cumin, paprika and cayenne pepper for 1 minute. Sautéing the spices allows them to bloom and deepen in flavor.",
     "Add broth, tomatoes, cinnamon, saffron, salt, lentils, half of the cilantro and half of the parsley. Bring to a simmer, cover with a vented lid and cook for 30 minutes, stirring often.",
