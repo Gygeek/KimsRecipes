@@ -40,9 +40,11 @@
     { "title":  "Braised Eggplant Parm", "file": "braised-eggplant.json" },
     { "title": "Harira Soup",  "file": "harira-soup.json" },
     { "title": "Linguine with Clam Sauce", "file": "linguine-clam-sauce.json" },
-    { "title": "PGW Flatbread",  "file": "flatbread.json" }
+    { "title": "PGW Flatbread",  "file": "flatbread.json" },
+    { "title": "Shawarma Cauliflower",  "file": "Shawarma-Cauliflower.json"  }
     
 ]
+
 
 
 
