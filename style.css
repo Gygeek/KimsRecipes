@@ -176,7 +176,7 @@ main {
 }
 
 #instruction-text {
-    font-size: 1.1em;
+    font-size: 1.3em;
     min-height: 50px; /* Ensures space even for short instructions */
     color: #1a1a1a;
 }
