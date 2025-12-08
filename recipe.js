@@ -57,6 +57,14 @@ document.addEventListener('DOMContentLoaded', () => {
     function displayIngredients() {
         if (!currentRecipeData || !currentRecipeData.ingredients || !ingredientsContainer) return;
 
+        // helper to escape text before inserting as HTML
+        function escapeHtml(str) {
+            return str.replace(/[&<>"']/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
+        }
+
+        // Regex to capture a leading quantity (numbers, fractions, simple units) at the start of the string
+        const qtyRegex = /^\s*([0-9⅓¼½¾⅔\/\.\s-]+(?:\s*(?:[a-zA-Z]+\.?))?)/;
+
         // Clear previous ingredients and add the main "Ingredients" heading
         ingredientsContainer.innerHTML = '<h2>Ingredients</h2>';
 
@@ -69,7 +77,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 const ingredientList = document.createElement('ul');
                 currentRecipeData.ingredients[category].forEach(itemString => {
                     const listItem = document.createElement('li');
-                    listItem.textContent = itemString;
+
+                    const m = itemString.match(qtyRegex);
+                    if (m) {
+                        const qty = m[0];
+                        const rest = itemString.slice(qty.length);
+                        listItem.innerHTML = `<span class="ingredient-quantity">${escapeHtml(qty)}</span>${escapeHtml(rest)}`;
+                    } else {
+                        listItem.textContent = itemString;
+                    }
+
                     ingredientList.appendChild(listItem);
                 });
                 ingredientsContainer.appendChild(ingredientList);
