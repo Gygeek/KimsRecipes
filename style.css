@@ -157,6 +157,13 @@ main {
     margin-bottom: 5px;
 }
 
+/* Quantity highlight for ingredients */
+.ingredient-quantity {
+    color: #c0392b;
+    font-weight: 600;
+    margin-right: 6px;
+}
+
 
 #instruction-step-container {
      /* background-color: #e9f5ff; */ /* Original light blue background */
