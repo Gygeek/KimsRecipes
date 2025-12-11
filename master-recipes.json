@@ -42,9 +42,11 @@
     { "title": "Linguine with Clam Sauce", "file": "linguine-clam-sauce.json" },
     { "title": "PGW Flatbread",  "file": "flatbread.json" },
     { "title": "Shawarma Cauliflower",  "file": "Shawarma-Cauliflower.json"  },
-    { "title": "Shrimp Scampi Pasta",  "file": "Shrimp_Scampi_Pasta.json"  }
+    { "title": "Shrimp Scampi Pasta",  "file": "Shrimp_Scampi_Pasta.json"  },
+    { "title": "40 Clove Garlic Chicken",  "file": "garlic-chicken.json"   }
     
 ]
+
 
 
 
