@@ -48,9 +48,11 @@
     { "title": "Silk Handkerchief Pasta",  "file": "handkerchief-pasta.json"  },
     { "title": "Lamb Stew from Scratch",  "file": "lamb-stew-scratch.json"  },
     { "title": "Instant Pot Split Pea Soup",  "file":"instant-pot-split-pea-soup.json" },
-    { "title": "Gnudi",  "file":"gnudi.json" }
+    { "title": "Gnudi",  "file":"gnudi.json" },
+    { "title": "Cabbage Soup",  "file":"cabbage-soup.json" }
     
 ]
+
 
 
 
