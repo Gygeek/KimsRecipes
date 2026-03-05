@@ -50,9 +50,11 @@
     { "title": "Instant Pot Split Pea Soup",  "file":"instant-pot-split-pea-soup.json" },
     { "title": "Gnudi",  "file":"gnudi.json" },
     { "title": "Cabbage Soup",  "file":"cabbage-soup.json" },
-            { "title": "Cabbage Soup 2", "file":"cabbage-soup2.json" }
-    
+            { "title": "Cabbage Soup 2", "file":"cabbage-soup2.json" },
+        { "title": "Citrus Avocado Salad with Envy Apples and Orange Tahini Vinaigrette", "file": "Citrus-Avocado-Salad-with-Envy-Apples.json" }
 ]
+
+
 
 
 
