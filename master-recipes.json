@@ -49,9 +49,11 @@
     { "title": "Lamb Stew from Scratch",  "file": "lamb-stew-scratch.json"  },
     { "title": "Instant Pot Split Pea Soup",  "file":"instant-pot-split-pea-soup.json" },
     { "title": "Gnudi",  "file":"gnudi.json" },
-    { "title": "Cabbage Soup",  "file":"cabbage-soup.json" }
+    { "title": "Cabbage Soup",  "file":"cabbage-soup.json" },
+        { "title": "Cabbage Soup 2 with Dill (Polish Summer Kapusniak)", "file":"cabbage-soup2.json" }
     
 ]
+
 
 
 
