@@ -1,0 +1,19 @@
+{
+    "title": "Recipe Title",
+    "ingredients": {
+          "Group Name 1": [
+                  "quantity unit ingredient, preparation note",
+                  "quantity unit ingredient"
+          ],
+          "Group Name 2": [
+                  "quantity unit ingredient",
+                  "quantity unit ingredient"
+          ]
+    },
+    "steps": [
+          "Step 1 description.",
+          "Step 2 description.",
+          "Step 3 description.",
+          "Step 4 description."
+    ]
+}
