@@ -37,7 +37,7 @@
     { "title": "Lemony Bean Stew", "file": "Lemony-Bean-Stew.json" },
     { "title":  "Strawberry Baked Brie", "file": "Strawberry-Baked-Brie.json" },
     { "title": "Cod Piccata", "file": "cod-piccata.json" },
-    { "title":  "Braised Eggplant Parm", "file": "braised-eggplant.json" },
+    { "title":  "Eggplant Parmesan", "file": "eggpant-parm.json" },
     { "title": "Harira Soup",  "file": "harira-soup.json" },
     { "title": "Linguine with Clam Sauce", "file": "linguine-clam-sauce.json" },
     { "title": "PGW Flatbread",  "file": "flatbread.json" },
@@ -55,6 +55,7 @@
         { "title": "Spinach & Black Bean Enchiladas", "file": "Spinach-Black-Bean-Enchiladas.json" },
         { "title": "Naples-Style Meatballs in Red Sauce", "file": "Naples-Style-Meatballs-Red-Sauce.json" }
 ]
+
 
 
 
