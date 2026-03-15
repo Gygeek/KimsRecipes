@@ -12,7 +12,7 @@ import os
                         data = json.load(f)
                         # Use the title from the JSON, or the filename if title is missing
                         title = data.get('title', filename.replace('.json', '').replace('-', ' '))
-                        recipes.append({'title': title, 'filename': filename})
+                        recipes.append({'title': title, 'file': filename})
                     except json.JSONDecodeError:
                         print(f"Skipping {filename}: Invalid JSON format")
     
