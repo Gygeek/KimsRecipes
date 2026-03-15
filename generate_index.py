@@ -1,6 +1,6 @@
 import os
-    import json
-    
+import json
+
     def generate_index():
         recipes = []
         # Scan the directory for recipe files
