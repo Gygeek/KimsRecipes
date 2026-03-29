@@ -1,0 +1,37 @@
+{
+    "recipe_name": "Instant Pot No-Soak Dry Beans",
+    "yield": "~5 cups cooked beans",
+    "servings": 10,
+    "ingredients": [
+        "1 pound dried beans",
+        "8 cups water",
+        "1 tablespoon olive oil",
+        "1–2 teaspoons salt",
+        "2–3 cloves garlic, peeled (optional)",
+        "1 bay leaf (optional)"
+    ],
+    "instructions": [
+        "Combine all ingredients in the Instant Pot. Do not fill the pot more than halfway full.",
+        "Secure the lid and set the pressure valve to the \"Sealing\" position.",
+        "Cook at high pressure using the times listed in Step 7. (Note: the pot will take 15–20 minutes to reach full pressure before the cooking timer begins.)",
+        "Release pressure — let it release naturally for as long as possible (20–30 minutes) before opening. You can do a quick release if needed, but natural release helps beans hold their shape and prevents foaming in the valve.",
+        "Check doneness. If beans are still firm, seal and cook at high pressure for another 5–10 minutes.",
+        "Use or store. Strain and use immediately, or cool and store in their cooking liquid for up to 5 days in the fridge or 3 months in the freezer."
+    ],
+    "cooking_times": {
+        "black_beans": "20–25 minutes",
+        "blackeyed_peas": "20–25 minutes",
+        "great_northern_beans": "25–30 minutes",
+        "navy_beans": "25–30 minutes",
+        "pinto_beans": "25–30 minutes",
+        "red_kidney_beans": "25–30 minutes (boil for 10 minutes first to break down lectins)",
+        "cannellini_beans": "35–40 minutes",
+        "chickpeas_garbanzo_beans": "35–40 minutes"
+    },
+    "key_tips": [
+        "Don't skip the olive oil — it reduces foaming that can clog the pressure valve.",
+        "Salt early — it seasons the beans from the inside during cooking (start with 1 tsp, up to 2 tsp).",
+        "Use the lower end of the time range for firmer beans (salads, tacos); the higher end for softer beans (hummus, soup, refried beans).",
+        "For soaked beans, cooking time is roughly half the unsoaked time."
+    ]
+}
