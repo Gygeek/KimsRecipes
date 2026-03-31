@@ -15,6 +15,7 @@
     { "title":  "Instant Pot Lobster Bisque", "file": "Instant-Pot-Lobster-Bisque.json" },
     { "title":  "Moroccan Chicken", "file": "Moroccan-Chicken-Tagine.json" },
     { "title":  "Salmon Stuffed with Leeks", "file": "Salmon-Stuffed-with-Leeks.json" },
+    { "title":  "Salmon with Creamy Spinach Sauce", "file": "Salmon-with-Creamy-Spinach-Sauce.json" },
     { "title":  "Scallops with Brussel Sprouts", "file": "Scallops-with-Brussels-Sprouts-with-Bacon.json" },
     { "title":  "Skillet Roasted Lemon Chicken", "file": "Skillet-Roasted-Lemon-Chicken.json" },
     { "title":  "White Bean Skillet", "file":  "White-Bean-Spinach-Skillet.json"  },
@@ -56,8 +57,7 @@
     { "title": "Spinach & Black Bean Enchiladas", "file": "Spinach-Black-Bean-Enchiladas.json" },
     { "title": "Naples-Style Meatballs in Red Sauce", "file": "Naples-Style-Meatballs-Red-Sauce.json" },
     { "title": "Instant Pot Dog Food Topper", "file": "Instant-Pot-Dog-Food-Topper.json" },
-        { "title": "The 'Kitchen Sink' Le Creuset Frittata", "file": "Kitchen-Sink-Le-Creuset-Frittata.json" },
-        { "title": "Lamb Tikka Masala", "file": "Lamb-Tikka-Masala.json" }
+    { "title": "The 'Kitchen Sink' Le Creuset Frittata", "file": "Kitchen-Sink-Le-Creuset-Frittata.json" }
 ]
 
 
