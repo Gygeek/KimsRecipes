@@ -1,7 +1,7 @@
 {
 "title": "Cream Cheese Squares",
 "ingredients": {
-  [
+   "Main": [
 "2 (8 ounce) cans refrigerated crescent roll dough",
 "2 (8 ounce) packages cream cheese, softened",
 "1 1⁄4 cups white sugar, divided",
@@ -16,6 +16,6 @@
 "Mix together cream cheese, 1 cup sugar, and vanilla in a medium bowl until smooth and creamy. Spread over crescent dough layer. Unroll second can of crescent rolls and lay dough on top of cream cheese mixture; do not press down.",
 "Pour melted margarine over the entire pan. Combine remaining 1/4 cup sugar and cinnamon in a small bowl; sprinkle on top.",
 "Bake in the preheated oven until top is crisp and golden, 25 to 30 minutes. Once cool, cut into 24 squares."
-]
+  ]
     
 }
