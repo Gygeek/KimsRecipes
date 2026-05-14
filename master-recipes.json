@@ -1,89 +1,266 @@
 [
-    { "title": "Instant Pot Black Beans", "file": "instant-pot-black-beans.json" },
-    { "title": "Instant Pot Butternut Squash Soup", "file": "instant-pot-butternut-squash-soup.json" },
-    { "title": "Baked Feta and Cauliflower", "file": "Baked_Feta_and_Cauliflower.json" },
-    { "title": "Black Bean Burger", "file": "black-bean-burger.json" },
-    { "title":  "Instant Pot Spaghetti & Meatballs", "file": "InstantPotSpaghettiMeatballs.json" },
-    { "title":  "Black Bean Soup", "file": "Black-Bean-Soup.json" },
-    { "title":  "Bok Choy Chicken", "file": "Bok-Choy-Chicken.json" },
-    { "title":  "Cauliflower Rice Chicken Biryani", "file": "Cauliflower-Rice-Chicken-Biryani.json" },
-    { "title":  "Cauliflower Rice Lunch Bowl W/Sweet Potatoes Chickpeas", "file": "Cauliflower-Rice-Lunch-Bowl-with-Sweet-Potatoes-and-Chickpeas.json" },
-    { "title":  "Chicken Lombardy", "file": "Chicken-Lombardy.json" },
-    { "title":  "Grilled Swordfish Pumpkin Ravioli", "file": "Grilled-Swordfish-Pumpkin-Ravioli.json" },
-    { "title":  "Instant Pot Butter Chicken", "file": "Instant-Pot-Butter-Chicken.json" },
-    { "title":  "Instant Pot Chicken Shawarma", "file": "Instant-Pot-Chicken-Shawarma.json" },
-    { "title":  "Instant Pot Lobster Bisque", "file": "Instant-Pot-Lobster-Bisque.json" },
-    { "title":  "Moroccan Chicken", "file": "Moroccan-Chicken-Tagine.json" },
-    { "title":  "Salmon Stuffed with Leeks", "file": "Salmon-Stuffed-with-Leeks.json" },
-    { "title":  "Salmon with Creamy Spinach Sauce", "file": "Salmon-with-Creamy-Spinach-Sauce.json" },
-    { "title":  "Scallops with Brussel Sprouts", "file": "Scallops-with-Brussels-Sprouts-with-Bacon.json" },
-    { "title":  "Skillet Roasted Lemon Chicken", "file": "Skillet-Roasted-Lemon-Chicken.json" },
-    { "title":  "White Bean Skillet", "file":  "White-Bean-Spinach-Skillet.json"  },
-    { "title":  "Sri Lankan Dal", "file": "Sri-Lankan-Dal-With-Coconut-and-Lime-Kale.json" },
-    { "title":  "Dal Makhani", "file": "Dal-Makhani.json" },
-    { "title":  "Salmon Cakes", "file": "Salmon_Cakes.json" },
-    { "title":  "Croissant Breakfast Bake", "file": "Croissant_Breakfast_Bake.json" },
-    { "title":  "Instant Pot Pan Roast", "file": "Instant-Pot-Seafood-Pan-Roast.json" },
-    { "title":  "Pan Roast", "file": "seafood_pan_roast.json" },
-    { "title":  "Thai Curry - Stovetop - Gemini version", "file": "Ultimate-Induction-Stovetop-Thai-Chicken-Curry.json" },
-    { "title":  "Thai Curry - Pressure Cooker - Gemini version", "file": "Ultimate-Instant-Pot-Thai-Chicken-Curry.json" },
-    { "title":  "Lentil Soup with Harissa Paste", "file": "Lentil-Soup-With-Harissa-Preserved-Lemons.json" },
-    { "title":  "Beef, Spinach & Feta Meatballs", "file": "Beef-Spinach-Feta-Meatballs.json" },
-    { "title":  "Pan Seared Salmon W/Cherry Tomatoes", "file": "Pan-Seared-Salmon-Ch-Tomato.json" },
-    { "title":  "Rotisserie chicken salad", "file": "Rotisserie-chicken-salad.json" },
-    { "title":  "Cod with Tomatoes Olives Capers", "file": "Cod-with-tomatoes.json" },
-    { "title":  "Instant Pot Lamb Stew (Israeli Chili)", "file": "Instant-Pot-Lamb-Stew-Israeli-Chili.json" },
-    { "title": "Instant Pot No-Soak Dry Beans", "file": "instant-pot-dry-beans.json" },
-    { "title": "Orecchiette with Sausage and Broccoli", "file": "Orecchiette-with-Sausage-and-Broccoli.json" },
-    { "title": "Split Pea Soup", "file": "Split-Pea-Soup.json" },
-    { "title": "Lemony Bean Stew", "file": "Lemony-Bean-Stew.json" },
-    { "title":  "Strawberry Baked Brie", "file": "Strawberry-Baked-Brie.json" },
-    { "title": "Cod Piccata", "file": "cod-piccata.json" },
-    { "title":  "Eggplant Parmesan", "file": "eggpant-parm.json" },
-    { "title": "Harira Soup",  "file": "harira-soup.json" },
-    { "title": "Linguine with Clam Sauce", "file": "linguine-clam-sauce.json" },
-    { "title": "PGW Flatbread",  "file": "flatbread.json" },
-    { "title": "Shawarma Cauliflower",  "file": "Shawarma-Cauliflower.json"  },
-    { "title": "Shrimp Scampi Pasta",  "file": "Shrimp_Scampi_Pasta.json"  },
-    { "title": "40 Clove Garlic Chicken",  "file": "garlic-chicken.json"   },
-    { "title": "Cioppino with Heart Pasta",  "file": "cioppino-heart-pasta.json"  },
-    { "title": "Silk Handkerchief Pasta",  "file": "handkerchief-pasta.json"  },
-    { "title": "Lamb Stew from Scratch",  "file": "lamb-stew-scratch.json"  },
-    { "title": "Instant Pot Split Pea Soup",  "file":"instant-pot-split-pea-soup.json" },
-    { "title": "Gnudi",  "file":"gnudi.json" },
-    { "title": "Cabbage Soup",  "file":"cabbage-soup.json" },
-    { "title": "Cabbage Soup 2", "file":"cabbage-soup2.json" },
-    { "title": "Avocado Apple Salad", "file": "Citrus-Avocado-Salad-with-Envy-Apples.json" },
-    { "title": "Spinach & Black Bean Enchiladas", "file": "Spinach-Black-Bean-Enchiladas.json" },
-    { "title": "Naples-Style Meatballs in Red Sauce", "file": "Naples-Style-Meatballs-Red-Sauce.json" },
-    { "title": "Instant Pot Dog Food Topper", "file": "Instant-Pot-Dog-Food-Topper.json" },
-    { "title": "The 'Kitchen Sink' Le Creuset Frittata", "file": "Kitchen-Sink-Le-Creuset-Frittata.json" },
-    { "title": "Cream Cheese Squares", "file": "cream-cheese-squares.json" },
-    { "title": "Fillets Of Sole Bonne Femme", "file": "fillet-of-sole.json" },
-    { "title": "Salmon Spread Peppers", "file": "salmon-peppers.json" },
-    { "title": "Carla Hall's Spiced Fried Chicken", "file": "Carla-Hall-Spiced-Fried-Chicken.json" }
+    {
+        "title": "40 Clove Garlic Chicken",
+        "file": "garlic-chicken.json"
+    },
+    {
+        "title": "Avocado Apple Salad",
+        "file": "Citrus-Avocado-Salad-with-Envy-Apples.json"
+    },
+    {
+        "title": "Beef, Spinach & Feta Meatballs",
+        "file": "Beef-Spinach-Feta-Meatballs.json"
+    },
+    {
+        "title": "Black Bean Burger",
+        "file": "black-bean-burger.json"
+    },
+    {
+        "title": "Black Bean Soup",
+        "file": "Black-Bean-Soup.json"
+    },
+    {
+        "title": "Blueberry-Coconut-Walnut Baked Oatmeal",
+        "file": "Blueberry-Coconut-Walnut-Baked-Oatmeal.json"
+    },
+    {
+        "title": "Bok Choy Chicken",
+        "file": "Bok-Choy-Chicken.json"
+    },
+    {
+        "title": "Braised Eggplant Parmesan",
+        "file": "braised-eggplant.json"
+    },
+    {
+        "title": "Braised Eggplant Parmesan",
+        "file": "eggpant-parm.json"
+    },
+    {
+        "title": "Carla Hall's Spiced Fried Chicken",
+        "file": "Carla-Hall-Spiced-Fried-Chicken.json"
+    },
+    {
+        "title": "Cauliflower Rice Chicken Biryani",
+        "file": "Cauliflower-Rice-Chicken-Biryani.json"
+    },
+    {
+        "title": "Cauliflower Rice Lunch Bowl with Sweet Potatoes and Chickpeas",
+        "file": "Cauliflower-Rice-Lunch-Bowl-with-Sweet-Potatoes-and-Chickpeas.json"
+    },
+    {
+        "title": "Chicken Lombardy",
+        "file": "Chicken-Lombardy.json"
+    },
+    {
+        "title": "Cod Piccata",
+        "file": "cod-piccata.json"
+    },
+    {
+        "title": "Cod With Tomatoes, Olives & Capers",
+        "file": "Cod-with-tomatoes.json"
+    },
+    {
+        "title": "Cream Cheese Squares",
+        "file": "cream-cheese-squares.json"
+    },
+    {
+        "title": "Creamy Cabbage Soup",
+        "file": "cabbage-soup.json"
+    },
+    {
+        "title": "Dal Makhani",
+        "file": "Dal-Makhani.json"
+    },
+    {
+        "title": "Easy Cabbage Soup with Dill (Polish Summer Kapusniak) — with Added Spices",
+        "file": "cabbage-soup2.json"
+    },
+    {
+        "title": "Easy French croissant breakfast bake",
+        "file": "Croissant_Breakfast_Bake.json"
+    },
+    {
+        "title": "Fillets Of Sole Bonne Femme",
+        "file": "fillet-of-sole.json"
+    },
+    {
+        "title": "Gnudi",
+        "file": "gnudi.json"
+    },
+    {
+        "title": "Greek-inspired Baked Feta & Cauliflower",
+        "file": "Baked_Feta_and_Cauliflower.json"
+    },
+    {
+        "title": "Grilled Swordfish & Pumpkin Ravioli",
+        "file": "Grilled-Swordfish-Pumpkin-Ravioli.json"
+    },
+    {
+        "title": "Harira Soup",
+        "file": "harira-soup.json"
+    },
+    {
+        "title": "Instant Pot Black Beans",
+        "file": "instant-pot-black-beans.json"
+    },
+    {
+        "title": "Instant Pot Butter Chicken",
+        "file": "Instant-Pot-Butter-Chicken.json"
+    },
+    {
+        "title": "Instant Pot Butternut Squash Soup",
+        "file": "instant-pot-butternut-squash-soup.json"
+    },
+    {
+        "title": "Instant Pot Chicken Shawarma",
+        "file": "Instant-Pot-Chicken-Shawarma.json"
+    },
+    {
+        "title": "Instant Pot Dog Food Topper",
+        "file": "Instant-Pot-Dog-Food-Topper.json"
+    },
+    {
+        "title": "Instant Pot Lamb Stew (Israeli Chili)",
+        "file": "Instant-Pot-Lamb-Stew-Israeli-Chili.json"
+    },
+    {
+        "title": "Instant Pot Lamb Stew (Israeli Chili) - From Scratch",
+        "file": "lamb-stew-scratch.json"
+    },
+    {
+        "title": "Instant Pot Linguine with White Clam Sauce",
+        "file": "linguine-clam-sauce.json"
+    },
+    {
+        "title": "Instant Pot Lobster Bisque",
+        "file": "Instant-Pot-Lobster-Bisque.json"
+    },
+    {
+        "title": "Instant Pot No-Soak Dry Beans",
+        "file": "instant-pot-dry-beans.json"
+    },
+    {
+        "title": "Instant Pot Spaghetti & Meatballs",
+        "file": "InstantPotSpaghettiMeatballs.json"
+    },
+    {
+        "title": "Instant Pot Split Pea Soup with Ham",
+        "file": "Split-Pea-Soup.json"
+    },
+    {
+        "title": "Instant Pot Split Pea Soup with Ham",
+        "file": "instant-pot-split-pea-soup.json"
+    },
+    {
+        "title": "Lamb Tikka Masala",
+        "file": "Lamb-Tikka-Masala.json"
+    },
+    {
+        "title": "Lemony Shrimp and Bean Stew",
+        "file": "Lemony-Bean-Stew.json"
+    },
+    {
+        "title": "Lentil Soup With Harissa & Preserved Lemons",
+        "file": "Lentil-Soup-With-Harissa-Preserved-Lemons.json"
+    },
+    {
+        "title": "Marry Me White Bean & Spinach Skillet",
+        "file": "White-Bean-Spinach-Skillet.json"
+    },
+    {
+        "title": "Moroccan Chicken Tagine",
+        "file": "Moroccan-Chicken-Tagine.json"
+    },
+    {
+        "title": "Naples-Style Meatballs in Red Sauce (Allegro-Inspired, Research-Modified)",
+        "file": "Naples-Style-Meatballs-Red-Sauce.json"
+    },
+    {
+        "title": "Orecchiette with Sausage and Broccoli",
+        "file": "Orecchiette-with-Sausage-and-Broccoli.json"
+    },
+    {
+        "title": "Pan-Seared Salmon With Cherry Tomato Confit",
+        "file": "Pan-Seared-Salmon-Ch-Tomato.json"
+    },
+    {
+        "title": "Pear, Gorgonzola, and Walnut Flatbread",
+        "file": "flatbread.json"
+    },
+    {
+        "title": "Quick Cioppino with Heart Pasta",
+        "file": "cioppino-heart-pasta.json"
+    },
+    {
+        "title": "Rotisserie chicken salad",
+        "file": "Rotisserie-chicken-salad.json"
+    },
+    {
+        "title": "Salmon Cakes",
+        "file": "Salmon_Cakes.json"
+    },
+    {
+        "title": "Salmon Spread Appetizers",
+        "file": "salmon-peppers.json"
+    },
+    {
+        "title": "Salmon Stuffed with Leeks",
+        "file": "Salmon-Stuffed-with-Leeks.json"
+    },
+    {
+        "title": "Salmon with Creamy Spinach Sauce",
+        "file": "Salmon-with-Creamy-Spinach-Sauce.json"
+    },
+    {
+        "title": "Scallops with Brussels Sprouts & Bacon",
+        "file": "Scallops-with-Brussels-Sprouts-with-Bacon.json"
+    },
+    {
+        "title": "Seafood Pan Roast",
+        "file": "seafood_pan_roast.json"
+    },
+    {
+        "title": "Shawarma-Spiced Roasted Cauliflower",
+        "file": "Shawarma-Cauliflower.json"
+    },
+    {
+        "title": "Shrimp Scampi Pasta",
+        "file": "Shrimp_Scampi_Pasta.json"
+    },
+    {
+        "title": "Silk-Handkerchief Pasta with White Bolognese",
+        "file": "handkerchief-pasta.json"
+    },
+    {
+        "title": "Skillet-Roasted Lemon Chicken",
+        "file": "Skillet-Roasted-Lemon-Chicken.json"
+    },
+    {
+        "title": "Spinach & Black Bean Enchiladas with Homemade Red Enchilada Sauce",
+        "file": "Spinach-Black-Bean-Enchiladas.json"
+    },
+    {
+        "title": "Sri Lankan Dal With Coconut and Lime Kale",
+        "file": "Sri-Lankan-Dal-With-Coconut-and-Lime-Kale.json"
+    },
+    {
+        "title": "Strawberry Balsamic Walnut Baked Brie",
+        "file": "Strawberry-Baked-Brie.json"
+    },
+    {
+        "title": "The 'Kitchen Sink' Le Creuset Frittata",
+        "file": "Kitchen-Sink-Le-Creuset-Frittata.json"
+    },
+    {
+        "title": "The 'Ultimate Drive' Instant Pot Seafood Pan Roast",
+        "file": "Instant-Pot-Seafood-Pan-Roast.json"
+    },
+    {
+        "title": "Ultimate Induction Stovetop Thai Chicken Curry",
+        "file": "Ultimate-Induction-Stovetop-Thai-Chicken-Curry.json"
+    },
+    {
+        "title": "Ultimate Instant Pot Thai Chicken Curry",
+        "file": "Ultimate-Instant-Pot-Thai-Chicken-Curry.json"
+    }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
