@@ -1,9 +1,5 @@
 [
     {
-        "title": "12-Inch Cast Iron Skillet Cornbread",
-        "file": "Cornbread.json"
-    },
-    {
         "title": "40 Clove Garlic Chicken",
         "file": "garlic-chicken.json"
     },
@@ -42,6 +38,10 @@
     {
         "title": "Carla Hall's Spiced Fried Chicken",
         "file": "Carla-Hall-Spiced-Fried-Chicken.json"
+    },
+    {
+        "title": "Cast Iron Skillet Cornbread",
+        "file": "Cornbread.json"
     },
     {
         "title": "Cauliflower Rice Chicken Biryani",
