@@ -2,41 +2,29 @@
 {
   "title": "Cauliflower and Tomato Soup with Parmesan Croutons",
   "ingredients": {
-    "For the Parmesan Croutons": [
+    "Parmesan Croutons": [
       "1 lb. sourdough or country loaf bread, cut into 3/4-in. pieces",
-      "1/2 cup extra-virgin olive oil (from the divided amount)",
-      "1 tsp. kosher salt (from the divided amount)",
+      "3/4 cup extra-virgin olive oil, divided",
+      "2 tsp. kosher salt, divided",
       "4 oz. grated Parmesan cheese"
     ],
-    "For the Soup Base": [
-      "3 tablespoons extra-virgin olive oil (remaining from divided amount)",
+    "Soup Base": [
+      "1 (14.5-oz.) can whole peeled plum tomatoes",
       "1 medium Spanish onion, thinly sliced",
       "2 large garlic cloves, thinly sliced",
-      "1 (14.5-oz.) can whole peeled plum tomatoes",
       "1 (1 1/2-lb.) head cauliflower, cored and cut into 1-in. pieces",
       "3 cups water",
-      "1 tsp. kosher salt (remaining from divided amount)",
-      "1/2 cup crème fraîche"
+      "1/2 cup crème fraîche",
+      "1 Tbsp. sherry vinegar"
     ],
-    "For Finishing and Serving": [
-      "1 Tbsp. sherry vinegar",
+    "Garnish": [
       "Chopped fresh chives",
-      "Freshly cracked black pepper",
-      "1 tablespoon extra-virgin olive oil (remaining from divided amount)"
+      "Freshly cracked black pepper"
     ]
   },
   "steps": [
-    {
-      "step_number": 1,
-      "instruction": "Make the Parmesan Croutons: Preheat oven to 350°. Toss together bread, 1/2 cup olive oil and 1 teaspoon salt in a large bowl; spread in an even layer on a baking sheet. Bake in oven until beginning to sizzle, 5 to 10 minutes. Sprinkle half of the cheese over bread, and toss well. Bake 10 minutes, stirring once or twice. Sprinkle with remaining cheese; toss well, and bake until croutons are golden brown and crisp on the outside, about 5 minutes more. Let cool on baking sheet to room temperature."
-    },
-    {
-      "step_number": 2,
-      "instruction": "Make the Soup Base: Using your hands, crush tomatoes in a bowl. Heat 3 tablespoons olive oil in a large saucepan over medium-low. Add onion, and cook, stirring often, until very soft, 5 to 7 minutes. Add garlic, and cook until soft, about 2 minutes. Add crushed tomatoes, cauliflower, water and 1 teaspoon salt. Bring to a simmer; cover and cook over low heat until cauliflower is very tender, about 15 minutes. Turn off heat, and stir in crème fraîche."
-    },
-    {
-      "step_number": 3,
-      "instruction": "Finish and Serve: Blend soup with an immersion blender until smooth. Stir in vinegar. Divide soup among bowls; garnish each with chives, pepper and 1 tablespoon olive oil. Top with Parmesan croutons."
-    }
+    "Make the Parmesan Croutons: Preheat oven to 350°. Toss together bread, 1/2 cup olive oil and 1 teaspoon salt in a large bowl; spread in an even layer on a baking sheet. Bake in oven until beginning to sizzle, 5 to 10 minutes. Sprinkle half of the cheese over bread, and toss well. Bake 10 minutes, stirring once or twice. Sprinkle with remaining cheese; toss well, and bake until croutons are golden brown and crisp on the outside, about 5 minutes more. Let cool on baking sheet to room temperature.",
+    "Make the Soup Base: Using your hands, crush tomatoes in a bowl. Heat 3 tablespoons olive oil in a large saucepan over medium-low. Add onion, and cook, stirring often, until very soft, 5 to 7 minutes. Add garlic, and cook until soft, about 2 minutes. Add crushed tomatoes, cauliflower, water and 1 teaspoon salt. Bring to a simmer; cover and cook over low heat until cauliflower is very tender, about 15 minutes. Turn off heat, and stir in crème fraîche.",
+    "Finish and Serve: Blend soup with an immersion blender until smooth. Stir in vinegar. Divide soup among bowls; garnish each with chives, pepper and 1 tablespoon olive oil. Top with Parmesan croutons."
   ]
 }
