@@ -1,0 +1,41 @@
+{
+  "title": "Avocado Toast with Shiitake \"Bacon\"",
+  "ingredients": {
+    "For the Shiitake \"Bacon\"": [
+      "1/2 lb. fresh shiitake mushrooms, stemmed, caps sliced",
+      "1 Tbsp. olive oil",
+      "3/4 tsp. smoked paprika",
+      "1/2 tsp. kosher salt (from the divided amount)",
+      "1/4 tsp. black pepper (from the divided amount)"
+    ],
+    "For the Avocado Spread": [
+      "2 very ripe avocados, halved",
+      "1/2 tsp. kosher salt (remaining from divided amount)",
+      "1/4 tsp. black pepper (remaining from divided amount)"
+    ],
+    "For Assembly and Serving": [
+      "4 slices regular or gluten-free whole-grain bread, toasted",
+      "10 cherry tomatoes, halved",
+      "2 Tbsp. chopped fresh cilantro",
+      "Olive oil for drizzling"
+    ]
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "instruction": "Preheat oven to 300°. Line a rimmed baking sheet with parchment paper."
+    },
+    {
+      "step_number": 2,
+      "instruction": "Combine mushrooms, oil and paprika on prepared baking sheet. Season with 1/2 teaspoon of the salt and 1/4 teaspoon of the pepper, and toss well. Spread mushrooms in a single layer. Bake in preheated oven, stirring occasionally, until mushrooms are mostly dehydrated, about 1 to 1 1/2 hours. Let cool completely, about 5 minutes."
+    },
+    {
+      "step_number": 3,
+      "instruction": "Place avocados and remaining 1/2 teaspoon salt and 1/4 teaspoon pepper in a small bowl. Using a fork, mash until creamy."
+    },
+    {
+      "step_number": 4,
+      "instruction": "Spread mashed avocado evenly over toasted bread slices, and drizzle each with a bit of olive oil (about 1/4 teaspoon per slice). Place about 5 tomato halves, cut side down, on each toast. Sprinkle with cilantro and shiitake \"bacon\"; serve immediately."
+    }
+  ]
+}
