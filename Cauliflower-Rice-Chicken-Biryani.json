@@ -1,11 +1,14 @@
 {
   "title": "Cauliflower Rice Chicken Biryani",
   "ingredients": {
-    "main": [
+    "Main": [
       "1 pound boneless, skinless chicken breasts (cut into 1 inch chunks)",
-      "6 cups cauliflower rice (fresh or frozen)"
+      "6 cups cauliflower rice (fresh or frozen)",
+      "3 teaspoons Clarified Butter (ghee)",
+      "1 large yellow onion (diced)",
+      "1 to 2 hot green chili pepper (sliced)"
     ],
-    "spices": [
+    "Spices & Seasonings": [
       "2 teaspoon kosher salt",
       "1 teaspoons grated ginger",
       "1 teaspoons minced garlic",
@@ -14,14 +17,7 @@
       "1/4 teaspoons chili powder",
       "1 tablespoon fresh lemon juice"
     ],
-    "Cooking Fats": [
-      "3 teaspoons Clarified Butter (ghee)"
-    ],
-    "vegetables": [
-      "1 large yellow onion (diced)",
-      "1 to 2 hot green chili pepper (sliced)"
-    ],
-    "garnish": [
+    "For Serving": [
       "1/4 cup chopped cilantro",
       "lemon wedges (for serving)"
     ]

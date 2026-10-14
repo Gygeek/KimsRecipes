@@ -1,25 +1,19 @@
 {
   "title": "Greek-inspired Baked Feta & Cauliflower",
   "ingredients": {
-    "Vegetables": [
+    "Main": [
       "2 cups ripe cherry tomatoes",
-      "1 large head cauliflower, broken into bite-sized florets"
-    ],
-    "Cheese": [
+      "1 large head cauliflower, broken into bite-sized florets",
       "6 oz block feta cheese",
-      "1 cup freshly grated mozzarella"
+      "1 cup freshly grated mozzarella",
+      "1/2 cup Kalamata olives",
+      "2 Tbsps extra virgin olive oil, divided",
+      "sea salt and ground pepper, to taste"
     ],
-    "Olives": [
-      "1/2 cup Kalamata olives"
-    ],
-    "Garlic and Herbs": [
+    "Spices & Seasonings": [
       "3 fresh garlic cloves, pressed",
       "3 fresh garlic cloves, minced",
       "2 Tbsps freshly chopped parsley leaves"
-    ],
-    "Other": [
-      "2 Tbsps extra virgin olive oil, divided",
-      "sea salt and ground pepper, to taste"
     ]
   },
   "steps": [
@@ -34,5 +28,3 @@
     "Garnish with fresh parsley and enjoy!"
   ]
 }
-
-

@@ -1,14 +1,11 @@
-
 {
   "title": "Cauliflower and Tomato Soup with Parmesan Croutons",
   "ingredients": {
-    "Parmesan Croutons": [
+    "Main": [
       "1 lb. sourdough or country loaf bread, cut into 3/4-in. pieces",
       "3/4 cup extra-virgin olive oil, divided",
       "2 tsp. kosher salt, divided",
-      "4 oz. grated Parmesan cheese"
-    ],
-    "Soup Base": [
+      "4 oz. grated Parmesan cheese",
       "1 (14.5-oz.) can whole peeled plum tomatoes",
       "1 medium Spanish onion, thinly sliced",
       "2 large garlic cloves, thinly sliced",
@@ -17,7 +14,7 @@
       "1/2 cup crème fraîche",
       "1 Tbsp. sherry vinegar"
     ],
-    "Garnish": [
+    "For Serving": [
       "Chopped fresh chives",
       "Freshly cracked black pepper"
     ]

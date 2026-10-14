@@ -1,25 +1,19 @@
 {
   "title": "Creamy Cabbage Soup",
   "ingredients": {
-    "vegetables": [
+    "Main": [
       "½ head of young cabbage, chopped",
       "1 leek, chopped",
       "½ yellow onion, chopped",
       "1 medium carrot, peeled and cut into slices or cubes",
       "2 celery stalks, cut into slices",
-      "4 medium yellow potatoes, peeled and cubed"
-    ],
-    "seasonings": [
-      "salt and pepper"
-    ],
-    "herbs": [
-      "⅓ cup dill, chopped"
-    ],
-    "fats": [
-      "2 tbsp butter"
-    ],
-    "liquids": [
+      "4 medium yellow potatoes, peeled and cubed",
+      "2 tbsp butter",
       "6 cups broth (chicken or vegetable)"
+    ],
+    "Spices & Seasonings": [
+      "salt and pepper",
+      "⅓ cup dill, chopped"
     ]
   },
   "steps": [

@@ -1,16 +1,15 @@
 {
   "title": "Instant Pot Chicken Shawarma",
   "ingredients": {
-    "main": [
+    "Main": [
       "4 lbs boneless, skinless chicken thighs (cut into strips with fat trimmed)",
       "1 yellow onion (sliced into thick wedges)",
-      "1 tbsp crushed garlic"
-    ],
-    "Cooking Fats": [
+      "1 tbsp crushed garlic",
       "½ cup extra virgin olive oil",
-      "2 tbsp salted butter"
+      "2 tbsp salted butter",
+      "½ cup garlic broth (or chicken broth)"
     ],
-    "spices": [
+    "Spices & Seasonings": [
       "1 tbsp paprika",
       "1 tbsp curry powder",
       "1 tbsp seasoned salt",
@@ -21,10 +20,7 @@
       "1 tsp crushed red pepper flakes (optional)",
       "½ tsp cayenne pepper (optional)"
     ],
-    "liquid": [
-      "½ cup garlic broth (or chicken broth)"
-    ],
-    "serving": [
+    "For Serving": [
       "Pita/flatbread",
       "Hummus",
       "Red onion (sliced)",

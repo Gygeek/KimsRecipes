@@ -1,7 +1,7 @@
 {
   "title": "Dal Makhani",
   "ingredients": {
-    "To Cook the Lentils": [
+    "Main": [
       "½ cup whole black lentils (kali urad)",
       "1 tablespoon Bengal gram (chana dal) (optional)",
       "¼ cup red kidney beans (rajma)",
@@ -9,9 +9,7 @@
       "2 teaspoons ginger garlic paste",
       "1 teaspoon Kashmiri red chilli powder",
       "½ teaspoon cumin powder",
-      "2 teaspoons salt"
-    ],
-    "To Temper the Lentils": [
+      "2 teaspoons salt",
       "2 bay leaves",
       "2 whole green cardamoms",
       "2 whole black cardamoms",
@@ -23,7 +21,7 @@
       "6 tablespoons tomato puree",
       "1 teaspoon grated ginger"
     ],
-    "For Finishing": [
+    "For Serving": [
       "1 teaspoon garam masala",
       "2 tablespoons butter (salted or unsalted)",
       "¼ cup heavy cream",

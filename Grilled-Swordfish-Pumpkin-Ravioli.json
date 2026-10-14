@@ -1,21 +1,19 @@
 {
   "title": "Grilled Swordfish & Pumpkin Ravioli",
   "ingredients": {
-    "main": [
+    "Main": [
       "4 Each 6 oz fresh swordfish steak",
-      "16 Each Pumpkin Ravioli (can find at almost all grocery stores this time of year)"
-    ],
-    "spices": [
-      "½ tsp Kosher salt",
-      "1/4 tsp Freshly ground black pepper",
-      "1 tsp Shallots, ¼\" dice",
-      "2 tsp Fresh sage leaves, roughly chopped"
-    ],
-    "other": [
+      "16 Each Pumpkin Ravioli (can find at almost all grocery stores this time of year)",
       "4 TBSP Crumbled feta cheese",
       "2 TBSP French's crispy onions",
       "1 TBSP Chopped parsley",
       "4 TBSP Butter"
+    ],
+    "Spices & Seasonings": [
+      "½ tsp Kosher salt",
+      "1/4 tsp Freshly ground black pepper",
+      "1 tsp Shallots, ¼\" dice",
+      "2 tsp Fresh sage leaves, roughly chopped"
     ]
   },
   "steps": [
@@ -34,4 +32,3 @@
     "Serve with your favorite vegetable side dish."
   ]
 }
-

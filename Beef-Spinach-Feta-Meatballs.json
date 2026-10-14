@@ -1,29 +1,21 @@
 {
   "title": "Beef, Spinach & Feta Meatballs",
   "ingredients": {
-    "Vegetables": [
-      "1 (10-oz.) pkg. frozen chopped spinach, thawed"
-    ],
-    "Dairy": [
+    "Main": [
+      "1 (10-oz.) pkg. frozen chopped spinach, thawed",
       "4 oz. feta cheese, crumbled (about 1 cup)",
-      "1 (5-oz.) container plain whole-milk Greek yogurt"
-    ],
-    "Spices And Seasonings": [
-      "1 Tbsp. garlic powder",
-      "1 Tbsp. dried oregano",
-      "1½ tsp. kosher salt, divided"
-    ],
-    "Protein": [
+      "1 (5-oz.) container plain whole-milk Greek yogurt",
       "1 lb. ground chuck",
-      "1 large egg, lightly beaten"
-    ],
-    "Other": [
-      "Cooking spray"
-    ],
-    "Sauce Ingredients": [
+      "1 large egg, lightly beaten",
+      "Cooking spray",
       "2 Tbsp. chopped fresh dill",
       "1 large garlic clove, minced",
       "1 lemon, halved"
+    ],
+    "Spices & Seasonings": [
+      "1 Tbsp. garlic powder",
+      "1 Tbsp. dried oregano",
+      "1½ tsp. kosher salt, divided"
     ]
   },
   "steps": [

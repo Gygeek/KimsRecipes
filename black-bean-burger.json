@@ -1,21 +1,19 @@
 {
   "title": "Black Bean Burger",
   "ingredients": {
-    "Patty Ingredients": [
+    "Main": [
       "2 cans (14.5 ounces each) seasoned black beans",
       "1 cup seasoned breadcrumbs",
       "1/4 cup grated white onion",
       "1 whole egg",
       "1/2 teaspoon chili powder",
       "Salt and pepper, to taste",
-      "Hot sauce (e.g., Cholula)"
-    ],
-    "Cooking Ingredients": [
+      "Hot sauce (e.g., Cholula)",
       "Olive oil, for frying",
       "Butter, for frying and grilling",
       "8 slices Swiss cheese"
     ],
-    "Toppings and Serving": [
+    "For Serving": [
       "4 Kaiser rolls or hamburger buns",
       "Mayonnaise",
       "Lettuce or other greens",

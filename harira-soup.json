@@ -1,7 +1,15 @@
 {
   "title": "Harira Soup",
   "ingredients": {
-    "Aromatics and Spices": [
+    "Main": [
+      "6 cups vegetable broth, chicken broth or water",
+      "28 oz canned crushed or whole peeled tomatoes",
+      "¾ cup red lentils, dry",
+      "½ cup brown or green lentils, dry",
+      "15 oz canned chickpeas",
+      "4 oz capellini or spaghetti pasta, broken into approximately 2-inch pieces"
+    ],
+    "Spices & Seasonings": [
       "2 Tbsp olive oil",
       "1 onion, diced",
       "2 stalks celery, finely chopped",
@@ -14,22 +22,12 @@
       "½ tsp cayenne pepper",
       "1 cinnamon stick or ¼ tsp ground cinnamon",
       "A pinch of saffron (optional)",
-      "1 to 2 tsp sea salt"
-    ],
-    "Main Ingredients": [
-      "6 cups vegetable broth, chicken broth or water",
-      "28 oz canned crushed or whole peeled tomatoes",
-      "¾ cup red lentils, dry",
-      "½ cup brown or green lentils, dry",
-      "15 oz canned chickpeas",
-      "4 oz capellini or spaghetti pasta, broken into approximately 2-inch pieces"
-    ],
-    "Herbs and Finishers": [
+      "1 to 2 tsp sea salt",
       "½ cup fresh cilantro, chopped and divided",
       "½ cup fresh parsley, chopped and divided",
       "2 tsp honey"
     ],
-    "For Serving (Optional)": [
+    "For Serving": [
       "Lemon wedges",
       "Yogurt",
       "Dates"

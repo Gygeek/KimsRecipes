@@ -1,15 +1,13 @@
 {
   "title": "Pumpkin Oatmeal Muffins with Greek Yogurt",
   "ingredients": {
-    "Wet Ingredients": [
+    "Main": [
       "1 (15-oz.) can pumpkin puree (not pumpkin pie filling)",
       "½ cup Greek yogurt",
       "½ cup brown sugar",
       "¼ cup vegetable oil (or canola, avocado, or light olive oil)",
       "1 large egg",
-      "2 tsp. vanilla extract"
-    ],
-    "Dry Ingredients": [
+      "2 tsp. vanilla extract",
       "1 cup rolled oats",
       "1 cup all-purpose flour",
       "3 tsp. baking powder",
@@ -19,7 +17,7 @@
       "½ tsp. ground nutmeg (plus optional ⅛ tsp. ground cloves)",
       "¼ tsp. salt"
     ],
-    "Optional Add-ins": [
+    "For Serving": [
       "½ cup raisins (or dark chocolate chips, dried cranberries)",
       "½ cup chopped walnuts (or pecans, pumpkin seeds) for topping",
       "Extra brown sugar for sprinkling on top"

@@ -1,30 +1,20 @@
 {
   "title": "Salmon Cakes",
   "ingredients": {
-    "seafood": [
-      "1 lb cooked salmon fillet"
-    ],
-    "Oils & Fats": [
+    "Main": [
+      "1 lb cooked salmon fillet",
       "3 Tbsp olive oil, divided",
-      "3 Tbsp unsalted butter, divided"
-    ],
-    "vegetables": [
+      "3 Tbsp unsalted butter, divided",
       "1 cup onion, finely diced",
-      "1/2 red bell pepper, diced"
-    ],
-    "Binders & Fillers": [
-      "1 cup panko breadcrumbs or Japanese-style breadcrumbs"
-    ],
-    "Eggs & Dairy": [
+      "1/2 red bell pepper, diced",
+      "1 cup panko breadcrumbs or Japanese-style breadcrumbs",
       "2 large eggs, lightly beaten",
       "3 Tbsp mayonnaise"
     ],
-    "Seasonings & Sauces": [
+    "Spices & Seasonings": [
       "1 tsp Worcestershire sauce",
       "1/4 tsp salt",
-      "1/4 tsp black pepper"
-    ],
-    "herbs": [
+      "1/4 tsp black pepper",
       "1/4 cup fresh parsley, minced"
     ]
   },

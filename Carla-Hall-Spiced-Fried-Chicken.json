@@ -1,19 +1,19 @@
 {
   "title": "Carla Hall's Spiced Fried Chicken",
   "ingredients": {
-    "brine": [
+    "Main": [
       "1 quart water",
       "1/4 cup sugar",
       "1/4 cup kosher salt (reserve 1 teaspoon more for the dredge)",
       "2 rosemary sprigs",
       "2 thyme sprigs",
       "2 fresh bay leaves",
-      "2 garlic cloves, smashed"
+      "2 garlic cloves, smashed",
+      "8 boneless, skin-on chicken thighs",
+      "Neutral cooking oil, such as canola, enough for about 1/2 inch depth in skillet",
+      "Additional kosher salt for finishing, if desired"
     ],
-    "main": [
-      "8 boneless, skin-on chicken thighs"
-    ],
-    "Spice Dredge": [
+    "Spices & Seasonings": [
       "2 cups all-purpose flour",
       "1/2 teaspoon paprika",
       "1/2 teaspoon garlic powder",
@@ -22,10 +22,6 @@
       "1/2 teaspoon ground rosemary",
       "1 teaspoon freshly ground black pepper",
       "1 teaspoon kosher salt (reserved from above)"
-    ],
-    "frying": [
-      "Neutral cooking oil, such as canola, enough for about 1/2 inch depth in skillet",
-      "Additional kosher salt for finishing, if desired"
     ]
   },
   "steps": [

@@ -1,12 +1,7 @@
 {
   "title": "The 'Ultimate Drive' Instant Pot Seafood Pan Roast",
   "ingredients": {
-    "Homemade Creole Seasoning": [
-      "4 parts chili powder",
-      "2 parts each: salt, onion powder",
-      "1 part each: black pepper, garlic powder, paprika, dried thyme"
-    ],
-    "For the Blended Creamy Base": [
+    "Main": [
       "1 tbsp unsalted butter",
       "1 tbsp olive oil",
       "1 cup sweet onion, chopped",
@@ -20,9 +15,7 @@
       "1/2 cup heavy cream",
       "2 large fresh basil leaves or 1 tbsp dried basil",
       "1/4 tsp black pepper",
-      "Salt to taste"
-    ],
-    "For the Pan Roast, Stew & Seafood": [
+      "Salt to taste",
       "1 tbsp unsalted butter",
       "1 tbsp olive oil",
       "1 cup yellow onion, chopped",
@@ -41,6 +34,11 @@
       "1 tsp honey (optional, for balance)",
       "1 bay leaf",
       "1 lb mixed seafood: e.g., shrimp (peeled & deveined), lump crab meat, scallops. (Andouille sausage, cubed, can also be used)"
+    ],
+    "Spices & Seasonings": [
+      "4 parts chili powder",
+      "2 parts each: salt, onion powder",
+      "1 part each: black pepper, garlic powder, paprika, dried thyme"
     ],
     "For Serving": [
       "Steamed Jasmine rice (optional: with saffron)",

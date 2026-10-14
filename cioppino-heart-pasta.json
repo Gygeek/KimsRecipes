@@ -1,10 +1,14 @@
 {
   "title": "Quick Cioppino with Heart Pasta",
   "ingredients": {
-    "Pasta": [
-      "14 oz. bag of Heart Pasta (or any other short pasta can be substituted, or pasta can be left out all together)"
+    "Main": [
+      "14 oz. bag of Heart Pasta (or any other short pasta can be substituted, or pasta can be left out all together)",
+      "12 ounces cod, or other white fish, cut into 1” pieces",
+      "1/2–1 pound uncooked, peeled, deveined shrimp",
+      "1/2 pound bay scallops",
+      "2 cans chopped clams, drained"
     ],
-    "Base & Seasonings": [
+    "Spices & Seasonings": [
       "3 Tablespoon olive oil",
       "1 medium onion, diced (approx. 2 cups)",
       "2–3 cloves garlic, minced",
@@ -17,13 +21,7 @@
       "3/4 cup dry white wine",
       "1 teaspoon salt"
     ],
-    "Seafood": [
-      "12 ounces cod, or other white fish, cut into 1” pieces",
-      "1/2–1 pound uncooked, peeled, deveined shrimp",
-      "1/2 pound bay scallops",
-      "2 cans chopped clams, drained"
-    ],
-    "Garnish": [
+    "For Serving": [
       "1/3 cup chopped parsley",
       "Fresh Parmesan for garnish"
     ]

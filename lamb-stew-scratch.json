@@ -1,7 +1,7 @@
 {
   "title": "Instant Pot Lamb Stew (Israeli Chili) - From Scratch",
   "ingredients": {
-    "Broth & Prep Foundations": [
+    "Main": [
       "2 lbs bone-in, skin-on chicken leg quarters",
       "1 head of garlic, halved horizontally",
       "1 onion, halved (skin on)",
@@ -11,9 +11,7 @@
       "1 fresh ear of sweet corn (kernels sliced off)",
       "4 medium tomatoes, diced (replaces canned diced)",
       "2 large tomatoes, halved and grated (replaces canned crushed)",
-      "4 medium tomatoes, grated and simmered into paste (replaces canned paste)"
-    ],
-    "Main": [
+      "4 medium tomatoes, grated and simmered into paste (replaces canned paste)",
       "2 tbsp extra virgin olive oil",
       "2 tbsp salted butter",
       "1 yellow onion, cut longways into thick slices",
@@ -28,7 +26,7 @@
       "2 cups shredded cabbage (coleslaw mix)",
       "Juice of 1 lemon"
     ],
-    "Seasonings": [
+    "Spices & Seasonings": [
       "Homemade fresh tomato paste (from prep)",
       "1 tbsp paprika",
       "1 tsp turmeric",
@@ -42,7 +40,7 @@
       "1 tsp Italian seasoning",
       "1 tbsp fresh cilantro, chopped"
     ],
-    "Toppings (Optional but recommended)": [
+    "For Serving": [
       "Tzatziki, dolloped into each bowl",
       "Kosher Dill or sour pickles, diced and placed in each bowl"
     ]

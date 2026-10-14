@@ -1,24 +1,11 @@
 {
   "title": "Moroccan Chicken Tagine",
   "ingredients": {
-    "spices": [
-      "2 tsp ground turmeric",
-      "2 tsp ground cumin",
-      "1 tsp ground coriander",
-      "1 tsp salt",
-      "½ tsp black pepper"
-    ],
-    "protein": [
-      "8 chicken thighs (skinless and boneless, or with skin and bone, as pictured below)"
-    ],
-    "fat": [
-      "2 Tbsp olive oil"
-    ],
-    "Aromatics & Produce": [
+    "Main": [
+      "8 chicken thighs (skinless and boneless, or with skin and bone, as pictured below)",
+      "2 Tbsp olive oil",
       "1 medium red onion, peeled and thinly sliced",
-      "3 garlic cloves, minced"
-    ],
-    "Pantry (Other)": [
+      "3 garlic cloves, minced",
       "1½ cups dried brown lentils",
       "½ cup chopped, pitted Medjool dates",
       "½ cup halved, pitted green olives",
@@ -26,7 +13,14 @@
       "½ cup dry white wine",
       "2 cups chicken broth"
     ],
-    "garnish": [
+    "Spices & Seasonings": [
+      "2 tsp ground turmeric",
+      "2 tsp ground cumin",
+      "1 tsp ground coriander",
+      "1 tsp salt",
+      "½ tsp black pepper"
+    ],
+    "For Serving": [
       "1 bunch fresh cilantro, tied together with kitchen string",
       "Snipped cilantro",
       "Lemon wedges"
